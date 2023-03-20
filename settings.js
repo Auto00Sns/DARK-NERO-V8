@@ -15,9 +15,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'true' // true of false
-global.INBOX_BLOCK_MSG ='*🧜‍♀️💬ALL INBOX MESSAGES  ARE BLOCKED BY OWNER*'
-global.INBOX_BLOCK = 'on' //inbox block
+global.AUTO_REACT = 'false' // true of false
+global.INBOX_BLOCK_MSG =''
+global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
 global.owner = ['0761091578'] //ur owner number
